@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @remedyfn
 - 👀 I’m interested in Programming and drawing
 - 🌱 I’m currently learning (Shell, Typescript)
-- 📫 How to reach me (discord server)[https://discord.gg/2UDe92QxVx]
+- 📫 How to reach me [discord server](https://discord.gg/2UDe92QxVx)
 
 <!---
 remedyfn/remedyfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

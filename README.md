@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @remedyfn
+- 👋 Hi, I’m @fnr999
 - 👀 I’m interested in Programming and drawing
 - 🌱 I’m currently learning (Shell, Typescript)
 - 📫 How to reach me [discord server](https://discord.gg/2UDe92QxVx)
